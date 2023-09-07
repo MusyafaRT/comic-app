@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Comic List</string>
+    <string name="comic_name">Nama Komik</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Revenge of the Iron-Blooded Sword Hound</item>
+        <item>Solo Max-Level Newbie</item>
+        <item>Swordmaster’s Youngest Son</item>
+        <item>Reincarnation of the Suicidal Battle God</item>
+        <item>Academy’s Genius Swordmaster</item>
+        <item>Return Of The Shattered Constellation</item>
+        <item>The Reincarnated Assassin is a Genius Swordsman</item>
+        <item>Pick Me Up, Infinite Gacha</item>
+        <item>Solo Leveling</item>
+        <item>Nano Machine</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>He was the hound of the Baskerville family: Vikir. Yet his loyalty was rewarded by the blade of a guillotine dirtied by slander. “I will never live the life of a hound slaughtered after the rabbit is caught.” In place of death, an unexpected opportunity awaits him. Vikir’s eyes glowed red as he sharpened his canines in the dark. “Just you wait, Hugo. I will rip out your throat this time.” It’s time for the hound to exact bloody revenge on his owner.</item>
+        <item>Jinhyuk, a gaming Nutuber, was the only person who saw the ending of the game [Tower of Trials]. However, when the game’s popularity declined, it became difficult for him to continue making a living as a gaming Nutuber. Since he already saw the ending of the game, he was about to quit playing. But that day, [Tower of Trials] became reality, and Jinhyuk, who knew about every single thing in the game, took over everything faster than anyone possibly could! “I’ll show you what a true pro is like.”</item>
+        <item>Jin Runcandel was the youngest son of Runcandel, the land’s most prestigious swordsman family… And the biggest failure in Runcandel history. He, who was kicked out miserably and came to a meaningless end, was given another chance. “How do you want to use this power?” “I want to use it for myself.” Memories of his past life, overwhelming talent, and a contract with God… The preparations to become the greatest are complete.</item>
+        <item>A time travel action fantasy of the strongest of mankind. “Even if the disgusting gods gave me this chance, an opportunity is still an opportunity. Since they want to end up dead, I will kill them.” The last survivor of mankind, Zephyr. The fight with the demons ended in defeat and the gods gave him a chance to go back 10 years in time. The demons who took everything away from humans and the gods who treated humans as beings for sight-seeing. This time, I will tear them to pieces.</item>
+        <item>Ronan lived a wasteful life filled with regrets. A second chance befalls him at the end of his futile life. He went back to the time when he was a ten-year-old child! For the people who sacrificed themselves for him, he becomes determined to live a new life.</item>
+        <item>A mere human who ascended to the position of a god, ‘Twilight of the Gods’. After becoming infamous as an Evil God, he lost everything. His Constellation, his faith, and his status. His divinity got cut off, and his divine power disappeared. “I’d like you to work with me.” That’s when the master of the Underworld, Thanatos, offered his hand… After grabbing Thanatos’s hand, ‘Twilight of the Gods’ decided to live again as the player ‘Lee Changseon’ to get back at the gods who threw him down to the underworld! ‘So, I’ve really come back.’</item>
+        <item>I was a chained dog in my past life. I didn’t remember my parents and I lived an emotionless life; like a tool. That life ended with my master horrifically killing me. I thought that was the end of my life. But when I opened my eyes again, I was born as the youngest child of the continent’s most powerful family. For both revenge and those who treasure me in my new life, I wielded the sword instead of the dagger.</item>
+        <item>The mobile gacha game ‘Pick Me Up!’ is known for being brutally difficult, and no one has been able to clear a dungeon. Loki, the fifth among all the world’s masters, loses consciousness while trying to clear the dungeon. Upon waking up, Loki finds himself turned into a 1-star level 1 hero, ‘Islat Han’. “It’s him! I’m certain he’s the one who brought me here!” In order to return to Earth, he must lead novice masters and heroes and break through the 100th floor of the dungeon! “You messed with the wrong person.” This is the story of master Loki who is forced to carry everyone to victory and cannot afford a single defeat.</item>
+        <item>Ten years ago, mysterious gates connecting the real world to a monster-infested realm opened, granting some people the power to become \'Hunters.\' Sung Jin-Woo, an E-rank Hunter with no remarkable skills, struggles to make a living by tackling low-level dungeons until he stumbles upon a hidden, high-difficulty dungeon. Near death in this dungeon, he gains a unique power - a personal quest log that allows him to level up and become the strongest S-rank Hunter, changing his fate from weakest to mightiest.</item>
+        <item>Nanotechnology meets martial arts at the Mashin Academy. Yeo-un\'s mother may not be one of the High Priest\'s six official wives, but his father\'s blood still qualifies him for a chance at the position of Minor Priest. Will a mysterious nanomachine injection from a future descendent help Yeo-un in this fierce competition against his powerful half-siblings?</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2023/04/IronBloodSwordHound05-1.png</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2021/07/solomaxlevelnewbie.jpg</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2022/04/swordmastersyoungestCover02.png</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2021/06/battleGodCover03.png</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2023/07/replicate-prediction-vl2hajjbgudda4cvzc7qwxj3iy.png</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2021/11/00-cover.jpg</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2023/08/0covrrrs.png</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2022/12/infiniteGachaCover03.png</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2021/03/soloLevelingCover02.png</item>
+        <item>https://img.asuracomics.com/unsafe/180x234/https://asuracomics.com/wp-content/uploads/2023/02/nanoMashineCover02.png</item>
+    </string-array>
+    <string-array name="data_author">
+        <item>I Stepped On Lego</item>
+        <item>Maslow</item>
+        <item>AZI,COBY /Emperor Penguin</item>
+        <item>Blue Deep</item>
+        <item>Seok Wandi, Sichi</item>
+        <item>Sadoyeon</item>
+        <item>VOKE/GeulGaemi</item>
+        <item>Hermode/Cho Wooneh (RedIce Studio)</item>
+        <item>추공 (Chugong) </item>
+        <item>Hanjoong Wolya/Hyun Jeolmu</item>
+    </string-array>
+    <string-array name="data_artist">
+        <item>Redice Studio and Seol Ahrang</item>
+        <item>Swingbat</item>
+        <item>Lee Je-Won</item>
+        <item>Blue Deep</item>
+        <item>Sichi</item>
+        <item>Fleximind, YANG Kyung-Il</item>
+        <item>TESS/ Daon Studio</item>
+        <item>Redice Studio/(3B2S)</item>
+        <item>GEE So-Lyung, Redice Studio</item>
+        <item>Redice Studio/Indestructible</item>
+    </string-array>
+    <string-array name="data_genres">
+        <item>Action, Adventure, Fantasy, Martial Arts, Returner, Revenge, Supernatural</item>
+        <item>Action, Adventure, Fantasy, Comedy, Game, Tower</item>
+        <item>Action, Fantasy, Overpowered, Returner, Shounen</item>
+        <item>Action, Fantasy, Overpowered, Returner, Shounen</item>
+        <item>Action, Adventure, Fantasy, Returner, Overpowered</item>
+        <item>Action, Adventure, Fantasy, Returner</item>
+        <item>Action, Adventure, Fantasy, Martial Arts, Reincarnation</item>
+        <item>Action, Adventure, Fantasy, Comedy, System</item>
+        <item>Action, Adventure, Fantasy, Shounen</item>
+        <item>Action, Adventure, Fantasy, Martial Arts, Murim, System</item>
+    </string-array>
+    <string-array name="data_review">
+        <item>I have been reading Revenge of the Iron-Blooded Sword Hound for a while now, and I must say it is one of the best manhwas I have ever read. It is a story of revenge, action, and time travel that keeps me on the edge of my seat every chapter. I love how the author has created a complex and fascinating world with different clans, powers, and politics. The plot is full of surprises and twists that make me want to know what happens next. The characters are also very well-written and have their own personalities and motivations. I especially like the main character, Vikir, who is a badass assassin who goes back in time to get revenge on his former master who betrayed and killed him. He is smart, ruthless, and loyal to his friends, but he also has a soft side that shows his humanity. He is not a typical hero who spares his enemies, but he is not a villain either. He is just a man who wants justice for himself and his clan. The art style of the manhwa is also amazing and beautiful. The action scenes are dynamic and exciting, with great details and colors. The facial expressions are very expressive and convey the emotions of the characters well. The character designs are unique and attractive, with different outfits and hairstyles that suit their roles and personalities. The backgrounds are also rich and varied, with different settings and landscapes that add to the world-building. I would highly recommend Revenge of the Iron-Blooded Sword Hound to anyone who likes a good revenge story with a lot of action, drama, and intrigue. It is a manhwa that will make you feel a range of emotions, from anger to sadness to joy. It is a manhwa that will make you think about the themes of loyalty, betrayal, justice, and vengeance. It is a manhwa that will make you addicted to its story and characters. It is currently ongoing and I can’t wait to read more of it.</item>
+        <item>Not an unique story, it pretty much feels like a mashup of Omniscient Reader and Solo Levelling. The author is here for show us how the MC is so OP and badass and nothing more. The only driving factor which let me read this manhwa is the art, which is by red-ice studio. If you have not read a lot of korean manhwa\'s then you might love this one, but if you have already read plethora of them then you might not enjoy it fully because of the following conserns, MC knows everything about the game, being it a well know game would have been better if other players also developed in a similar way, but only MC knows all the hidden details which no one knows, The skill MC possess is kinda a cheat skill. he bacisallly copies the skills of opponents and techinically becomes OP, which kills the fun MC is arrogant and on top of that no other side character is developed for 100+ chapters, its no fun reading a story which revolves only around MC who is arrogant and copies other people skills to become OP.</item>
+        <item>Definitely good one in the manhwa scene right now but those who have read the LTN know this is some top tier 10/10 shit. The story starts really great with the protagonist being a very unique character, furthest from the conventional protagonist, with the first chapter making him more and more of a potential villain and I feel like it succeeded in the sense that right now in the story, he is not the best person at heart and does not care about you if it doesn\'t benefit him. At the same time, he is not some stone-cold killer 14 year olds would like, but just someone who prioritizes himself over most other people but would not harm someone for no reason. Basically, a much more realistic personality and attitude. The side characters are actually amazing not yet at one piece levels, but they have the same potential. The villains are top notch and genuinely give you a feeling of ominousness. The strength development and the in world time pacing are in my opinion perfect. Their are small time skips in between to show time passing but there is absolutely no huge time skip in the story that completely changed the characters and increased the power level of the protagonist in a more believable proportion which is something that a lot of series overlook but greatly appreciated.</item>
+        <item>Doom Breaker stands out for its exceptional artwork, with detailed illustrations that bring the world and its inhabitants to life. The artist\'s skillful use of colors, dynamic panel layouts, and attention to detail enhance the immersive experience, allowing readers to truly immerse themselves in the fantastical realm. Doom Breaker takes readers on an exhilarating journey through a world where magic and mayhem collide. The story centers around the enigmatic and powerful protagonist, who finds himself caught in a web of intrigue and danger. While Doom Breaker adheres to some familiar fantasy tropes, it injects fresh twists and turns that keep the narrative engaging and unpredictable. The pacing is well-balanced, with a blend of intense action sequences and intriguing plot developments that will keep you on the edge of your seat. Doom Breaker is a captivating and electrifying fantasy manhwa that weaves a tale of magic, mystery, and adventure. With its compelling story, breathtaking artwork, and well-crafted characters, it is a must-read for fans of the genre. The seamless fusion of action, intrigue, and fantastical elements makes Doom Breaker an unforgettable reading experience that will leave you eagerly anticipating each new installment. Prepare to be spellbound by the enchanting world of Doom Breaker.</item>
+        <item>Great story to pass time. I won\'t lie and say it\'s the most amazing story out there but it has solid characters and a nice world building, however it constantly switches between 1st and 3rd person perspective which can be hard to keep track of. On top of that the dialogue can be hard to tell who is currently talking, however it\'s not hard to differentiate. </item>
+        <item>As a big fan of modern fantasy and reincarnation stories, this is probably one of the better ones. Manhwa tend to have a good track record, but there are still some that are lackluster. The character interactions are funny, i like how the gods seem much more "mortal" in their interactions, like Tiamat\'s kid being very naive and stupid outside of martial arts and weaponry, Or how Jormungandr is lazy, and mephistopheles mocks others with their silence. The gods have a much more interesting personality comapred to other constellation-esque manhwa, And although the story is a bit bland, with it feeling like the MC will always win, I tended to get lost in the pace by pace action, thinking more about "what twist will he pull now?" Rather than "will he win or not"</item>
+        <item>It\'s okay. Just about like every other reincarnation manhwa out there. MC gets OP skills/techniques and has all the experience from his past life. No dad in sight and his family is scorned. Same old mundane academy type beat with children fighting each other. The characters are okay at least, generic but at least there\'s some growth. You know the drill, nothing amazing but good enough to pass time if you like these kind of fantasy manhwa. Somewhat tentative review since the number of chapters out right now is low.</item>
+        <item>What\'s that? An actually decent dungeonwha? Color me surprised. It really has everything perfectly laid down. This is one of the best implementation of the "MC has extra knowledge trope" out there, so good! The setting is really refreshing with the MC being a player, but in a game where he doesn\'t have that much agency. So it doesn\'t matter what knowledge he has, he will always be in a disadvantageous situation. The levels of the tower are also randomized so MC will not know in advance how to tackle them. Lastly MC has to work with others in order to clear a level so his teammates skills, mentality, characateristics, etc. have to be taken into account as well. This makes the MC a strategist of sort because he has to think about everything while also navigating the "orders" since he\'s just a player. We usually get MCs become autonomous players of a game and this one feels truly novel. The story is also interesting in its own way. Nothing new really with the evil corp bad guys but it\'s not so much mentioned so we focus more on Mcs day to day life. The characters are interesting with varying personalities. The art is truly beautiful and even the fight scenes are well done from time to time. Frankly i don\'t see any negative traits in this manwha. I enjoyed every single chapter through and through. Would 100% recommend.</item>
+        <item>Solo Leveling does everything it tries to do goddamn right. You may think the setting has been done a million times and it\'s just another generic overpowered main character doing what he wants, it\'s exactly that, but executed absolutely magnificently in every regard. The setting is quite simple, one day gates start appearing all over the world out of nowhere and people start awakening magic abilities in order to close these gates. Our main character is a man dubbed "The Worlds Weakest Hunter", Sung Jin-Woo, who joins these raids in order to pay for his comatose mothers treatment and his younger sisters education. After a raid gone horribly wrong, Sung Jin-Woo awakens an ability that enables him to level up his abilities, which is unheard of. The story follows Sung Jin-Woo\'s growth as a person and a hunter. The mystery and high-stakes in this manhwa make it an enticing story to follow. Hands down one of my favorite reads ever, it\'s captivating and you may find yourself re-reading the series over and over again without even giving it another thought. There are quite a few minor and somewhat major changes done compared to the light novel, but in my opinion most of them have been positive changes.</item>
+        <item>First of all, it had been a while since I read an action work that really captivated me. The characters are interesting, they are not just randomly thrown into the work to fill the cast, they are there to build the story together with the protagonist. And the character designs are beautiful, they are really attractive and aesthetic, the fights are intense and the bright colors make you feel the pressure in the form of each character\'s power. You follow every move precisely. I would say that it is a work that goes beyond what it sets out to do; being a story about revenge and ascension, the script knew how to be patient, stop and rest when needed; taking advantage of the nuances. The protagonist is not thrown into the plot, his only characteristic being overpower, he is, first of all, emotionally intelligent, it is worth mentioning; not only learns, but visibly grows from its own mistakes, and the way the script cleverly surrounds it, exposes itself to is own immaturity, takes you by surprise. When everything seems set for him to lose control, he is angry, but not a fool. What\'s the use of having a second chance and becoming strong but… being an idiot? The story grips you because you\'re not just watching a super strong guy get his revenge, you\'re watching a smart guy, smartly and patiently building something, rising steadily, evenly, bonds with people he trusts, amidst the world really oppressive exterior.</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>7.40</item>
+        <item>7.55</item>
+        <item>7.59</item>
+        <item>7.75</item>
+        <item>7.56</item>
+        <item>6.98</item>
+        <item>7.42</item>
+        <item>7.60</item>
+        <item>8.68</item>
+        <item>7.94</item>
+    </string-array>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="headline_genres">Genres</string>
+    <string name="headline_artist">Artist</string>
+    <string name="headline_author">Author</string>
+    <string name="item_genres">Item Genres</string>
+    <string name="item_artist">Item Artist</string>
+    <string name="item_author">Item Author</string>
+    <string name="about_name">Ronggo Tsani Musyafa</string>
+    <string name="about_email">musyafart@gmail.com</string>
+    <string name="comic_review">Comic\'s Review</string>
+    <string name="comic_rating">Comic\'s Rating</string>
+    <string name="comic_share">Share Comic</string>
+</resources>
